@@ -25,5 +25,5 @@ Feel free to contact and connect!
 
 [LeetCode Challenge]: assets/lc-challenge.png
 [Create Hello World Function]: https://leetcode.com/problems/create-hello-world-function/
-[day-1.js]: challenges/day-1.js
+[day-1.js]: challenges/day1.js
 
