@@ -23,7 +23,7 @@ Feel free to contact and connect!
 |-----------| ----------- | ----------- | ----------- |
 |<img src="https://avatars.githubusercontent.com/u/68149788?v=4" width="100"></img>|Tan Zuyi Joey|[![jeezusplays](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jeezusplays)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/joey-tan-zuyi)|
 
-[LeetCode Challenge]: lc-challenge.png
+[LeetCode Challenge]: assets/lc-challenge.png
 [Create Hello World Function]: https://leetcode.com/problems/create-hello-world-function/
-[day-1.js]: day-1.js
+[day-1.js]: challenges/day-1.js
 
