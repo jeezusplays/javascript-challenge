@@ -14,11 +14,7 @@ This challenge is hosted by [LeetCode](https://leetcode.com/). This repository i
 [Create Hello World Function]: https://leetcode.com/problems/create-hello-world-function/
 
 ## TODO List
-- [ ] 1672. Richest Customer Wealth
-- [ ] 412. Fizz Buzz
-- [ ] 1342. Number of Steps to Reduce a Number to Zero
-- [ ] 876. Middle of The Linked List
-- [ ] 383. Ransom Note
+
 
 ## Contact
 Feel free to contact and connect!
