@@ -14,7 +14,7 @@ Solved emoji `:white_check_mark:` -->
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
 
 ## TODO List
-
+- [ ] Day 2 Task
 
 ## Contact
 Feel free to contact and connect!
