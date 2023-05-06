@@ -10,6 +10,7 @@ Solved emoji `:white_check_mark:` -->
 | Day | Topic | Problem | Solved? | File |
 | :---: | ----- | ------- | :-------: | ------- |
 | 1 | Closure | [Create Hello World Function] | :white_check_mark: | [day-1.js] |
+| 2 | Closure | [Counter] | :x: |  |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
 
