@@ -9,8 +9,8 @@ Every day starting May 5, LeetCode will pick one JavaScript problem to solve. So
 Solved emoji `:white_check_mark:` -->
 | Day | Topic | Problem | Solved? | File |
 | :---: | ----- | ------- | :-------: | ------- |
-| 1 | Closure | [Create Hello World Function] | :white_check_mark: | [day-1.js] |
-| 2 | Closure | Counter | :x: |  |
+| 1 | Closure | [Create Hello World Function] | :white_check_mark: | [day1.js] |
+| 2 | Closure | [Counter] | :white_check_mark: | [day2.js] |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
 
@@ -26,6 +26,10 @@ Feel free to contact and connect!
 
 [LeetCode Challenge]: assets/lc-challenge.png
 [LeetCode]: https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white
+
 [Create Hello World Function]: https://leetcode.com/problems/create-hello-world-function/
-[day-1.js]: challenges/day1.js
+[Counter]: https://leetcode.com/problems/counter/
+
+[day1.js]: challenges/day1.js
+[day2.js]: challenges/day2.js
 
