@@ -11,6 +11,7 @@ Solved emoji `:white_check_mark:` -->
 | :---: | ----- | ------- | :-------: | ------- |
 | 1 | Closure | [Create Hello World Function] | :white_check_mark: | [day1.js] |
 | 2 | Closure | [Counter] | :white_check_mark: | [day2.js] |
+| 3 | Closure | [Counter II] | :x: | [day3.js] |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
 
@@ -29,7 +30,9 @@ Feel free to contact and connect!
 
 [Create Hello World Function]: https://leetcode.com/problems/create-hello-world-function/
 [Counter]: https://leetcode.com/problems/counter/
+[Counter II]: https://leetcode.com/problems/counter-ii/
 
 [day1.js]: challenges/day1.js
 [day2.js]: challenges/day2.js
+[day3.js]: challenges/day3.js
 
