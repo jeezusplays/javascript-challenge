@@ -7,11 +7,11 @@ Every day starting May 5, LeetCode will pick one JavaScript problem to solve. So
 
 <!-- Not Solved emoji `:x:`
 Solved emoji `:white_check_mark:` -->
-| Day | Topic | Problem | Solved? | File |
-| :---: | ----- | ------- | :-------: | ------- |
-| 1 | Closure | [Create Hello World Function] | :white_check_mark: | [day1.js] |
-| 2 | Closure | [Counter] | :white_check_mark: | [day2.js] |
-| 3 | Closure | [Counter II] | :x: | [day3.js] |
+| Day | Topic | Problem | Solved? | File | Difficulty |
+| :---: | ----- | ------- | :-------: | ------- | :--------: |
+| 1 | Closure | [Create Hello World Function] | :white_check_mark: | [day1.js] | Easy |
+| 2 | Closure | [Counter] | :white_check_mark: | [day2.js] | Easy |
+| 3 | Closure | [Counter II] | :x: | [day3.js] | Easy |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
 
