@@ -39,4 +39,6 @@ Feel free to contact and connect!
 [day1.js]: challenges/day1.js
 [day2.js]: challenges/day2.js
 [day3.js]: challenges/day3.js
+[day4.js]: challenges/day4.js
+[day5.js]: challenges/day5.js
 
