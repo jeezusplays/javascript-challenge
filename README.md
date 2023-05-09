@@ -11,7 +11,7 @@ Solved emoji `:white_check_mark:` -->
 | :---: | ----- | ------- | :-------: | ------- | :--------: |
 | 1 | Closure | [Create Hello World Function] | :white_check_mark: | [day1.js] | Easy |
 | 2 | Closure | [Counter] | :white_check_mark: | [day2.js] | Easy |
-| 3 | Closure | [Counter II] | :x: | [day3.js] | Easy |
+| 3 | Closure | [Counter II] | :white_check_mark: | [day3.js] | Easy |
 | 4 | Basic Array Transforms | [Apply Transform Over Each Element in Array] | :x: | [day4.js] | Easy |
 | 5 | Basic Array Transforms | [Filter Elements from Array] | :x: | [day5.js] | Easy |
 
