@@ -12,8 +12,8 @@ Solved emoji `:white_check_mark:` -->
 | 1 | Closure | [Create Hello World Function] | :white_check_mark: | [day1.js] | Easy |
 | 2 | Closure | [Counter] | :white_check_mark: | [day2.js] | Easy |
 | 3 | Closure | [Counter II] | :white_check_mark: | [day3.js] | Easy |
-| 4 | Basic Array Transforms | [Apply Transform Over Each Element in Array] | :x: | [day4.js] | Easy |
-| 5 | Basic Array Transforms | [Filter Elements from Array] | :x: | [day5.js] | Easy |
+| 4 | Basic Array Transforms | [Apply Transform Over Each Element in Array] | :white_check_mark: | [day4.js] | Easy |
+| 5 | Basic Array Transforms | [Filter Elements from Array] | :white_check_mark: | [day5.js] | Easy |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
 
@@ -21,8 +21,8 @@ This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repositor
 - [x] Day 1 Task
 - [x] Day 2 Task
 - [x] Day 3 Task
-- [ ] Day 4 Task
-- [ ] Day 5 Task   
+- [x] Day 4 Task
+- [x] Day 5 Task   
 - [ ] Day 6 Task
 - [ ] Day 7 Task 
 - [ ] Day 8 Task
