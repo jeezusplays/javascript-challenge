@@ -14,7 +14,7 @@ Solved emoji `:white_check_mark:` -->
 | 3 | Closure | [Counter II] | :white_check_mark: | [day3.js] | Easy |
 | 4 | Basic Array Transforms | [Apply Transform Over Each Element in Array] | :white_check_mark: | [day4.js] | Easy |
 | 5 | Basic Array Transforms | [Filter Elements from Array] | :white_check_mark: | [day5.js] | Easy |
-| 6 | Basic Array Transforms | [Array Reduce Transformation] | :x: | [day6.js] | Easy |
+| 6 | Basic Array Transforms | [Array Reduce Transformation] | :white_check_mark: | [day6.js] | Easy |
 | 7 | Function Input and Output | [Function Composition] | :x: | [day7.js] | Easy |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
