@@ -14,6 +14,8 @@ Solved emoji `:white_check_mark:` -->
 | 3 | Closure | [Counter II] | :white_check_mark: | [day3.js] | Easy |
 | 4 | Basic Array Transforms | [Apply Transform Over Each Element in Array] | :white_check_mark: | [day4.js] | Easy |
 | 5 | Basic Array Transforms | [Filter Elements from Array] | :white_check_mark: | [day5.js] | Easy |
+| 6 | Basic Array Transforms | [Array Reduce Transformation] | :x: | [day6.js] | Easy |
+| 7 | Function Input and Output | [Function Composition] | :x: | [day7.js] | Easy |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
 
@@ -64,10 +66,14 @@ Feel free to contact and connect!
 [Counter II]: https://leetcode.com/problems/counter-ii/
 [Apply Transform Over Each Element in Array]: https://leetcode.com/problems/apply-transform-over-each-element-in-array/
 [Filter Elements from Array]: https://leetcode.com/problems/filter-elements-from-array/
+[Array Reduce Transformation]: https://leetcode.com/problems/array-reduce-transformation/
+[Function Composition]: https://leetcode.com/problems/function-composition/
 
 [day1.js]: challenges/day1.js
 [day2.js]: challenges/day2.js
 [day3.js]: challenges/day3.js
 [day4.js]: challenges/day4.js
 [day5.js]: challenges/day5.js
+[day6.js]: challenges/day6.js
+[day7.js]: challenges/day7.js
 
