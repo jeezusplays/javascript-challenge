@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const MIN_NUM = 10; // minimum number for file name
+const MIN_NUM = 1; // minimum number for file name
 const MAX_NUM = 30; // maximum number for file name
 const BASE_DIR = './challenges'; // directory to create files in
 
