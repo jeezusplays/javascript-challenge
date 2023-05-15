@@ -17,7 +17,8 @@ Solved emoji `:white_check_mark:` -->
 | 6 | Basic Array Transforms | [Array Reduce Transformation] | :white_check_mark: | [day6.js] | Easy |
 | 7 | Function Input and Output | [Function Composition] | :white_check_mark: | [day7.js] | Easy |
 | 8 | Function Input and Output | [Allow One Function Call] | :white_check_mark: | [day8.js] | Easy |
-| 9 | Function Input and Output | [Memoize] | :x: | [day9.js] | Medium |
+| 9 | Function Input and Output | [Memoize] | :white_check_mark: | [day9.js] | Medium |
+
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
 
