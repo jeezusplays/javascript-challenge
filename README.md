@@ -18,8 +18,8 @@ Solved emoji `:white_check_mark:` -->
 | 7 | Function Input and Output | [Function Composition] | :white_check_mark: | [day7.js] | Easy |
 | 8 | Function Input and Output | [Allow One Function Call] | :white_check_mark: | [day8.js] | Easy |
 | 9 | Function Input and Output | [Memoize] | :white_check_mark: | [day9.js] | Medium |
-| 10 | Function Input and Output | [Curry] | :x: | [day10.js] | Medium |
-| 11 | Promise | [Sleep] | :x: | [day11.js] | Easy |
+| 10 | Function Input and Output | [Curry] | :white_check_mark: | [day10.js] | Medium |
+| 11 | Promise | [Sleep] | :white_check_mark: | [day11.js] | Easy |
 | 12 | Promise | Promise Time Limit | :x: | [day12.js] | Easy |
 | 13 | Promise | Promise Pool | :x: | [day13.js] | Medium |
 | 14 | Time (setTimeout) | Cache With Time Limit | :x: | [day14.js] | Medium |
