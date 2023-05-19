@@ -18,7 +18,12 @@ Solved emoji `:white_check_mark:` -->
 | 7 | Function Input and Output | [Function Composition] | :white_check_mark: | [day7.js] | Easy |
 | 8 | Function Input and Output | [Allow One Function Call] | :white_check_mark: | [day8.js] | Easy |
 | 9 | Function Input and Output | [Memoize] | :white_check_mark: | [day9.js] | Medium |
-
+| 10 | Function Input and Output | [Curry] | :x: | [day10.js] | Medium |
+| 11 | Promise | [Sleep] | :x: | [day11.js] | Easy |
+| 12 | Promise | Promise Time Limit | :x: | [day12.js] | Easy |
+| 13 | Promise | Promise Pool | :x: | [day13.js] | Medium |
+| 14 | Time (setTimeout) | Cache With Time Limit | :x: | [day14.js] | Medium |
+| 15 | Time (setTimeout) | Debounce | :x: | [day15.js] | Medium |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
 
@@ -41,6 +46,12 @@ Feel free to contact and connect!
 [Function Composition]: https://leetcode.com/problems/function-composition/
 [Allow One Function Call]: https://leetcode.com/problems/allow-one-function-call/
 [Memoize]: https://leetcode.com/problems/memoize/
+[Curry]: https://leetcode.com/problems/curry/
+[Sleep]: https://leetcode.com/problems/sleep/
+[Promise Time Limit]: https://leetcode.com/problems/promise-time-limit/
+[Promise Pool]: https://leetcode.com/problems/promise-pool/
+[Cache With Time Limit]: https://leetcode.com/problems/cache-with-time-limit/
+[Debounce]: https://leetcode.com/problems/debounce/
 
 [day1.js]: challenges/day1.js
 [day2.js]: challenges/day2.js
@@ -51,4 +62,26 @@ Feel free to contact and connect!
 [day7.js]: challenges/day7.js
 [day8.js]: challenges/day8.js
 [day9.js]: challenges/day9.js
+[day10.js]: challenges/day10.js
+[day11.js]: challenges/day11.js
+[day12.js]: challenges/day12.js
+[day13.js]: challenges/day13.js
+[day14.js]: challenges/day14.js
+[day15.js]: challenges/day15.js
+[day16.js]: challenges/day16.js
+[day17.js]: challenges/day17.js
+[day18.js]: challenges/day18.js
+[day19.js]: challenges/day19.js
+[day20.js]: challenges/day20.js
+[day21.js]: challenges/day21.js
+[day22.js]: challenges/day22.js
+[day23.js]: challenges/day23.js
+[day24.js]: challenges/day24.js
+[day25.js]: challenges/day25.js
+[day26.js]: challenges/day26.js
+[day27.js]: challenges/day27.js
+[day28.js]: challenges/day28.js
+[day29.js]: challenges/day29.js
+[day30.js]: challenges/day30.js
+
 
