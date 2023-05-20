@@ -32,7 +32,7 @@ Feel free to contact and connect!
 
 || Name | Github | LinkedIn |
 |-----------| ----------- | ----------- | ----------- |
-|<img src="https://avatars.githubusercontent.com/u/68149788?v=4" width="100"></img>|Tan Zuyi Joey|[![jeezusplays](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jeezusplays)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/joey-tan-zuyi)|
+|<img src="https://avatars.githubusercontent.com/u/68149788?v=4" width="100"></img>|Joey Tan|[![jeezusplays](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jeezusplays)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/joey-tan-zuyi)|
 
 [LeetCode Challenge]: assets/lc-challenge.png
 [LeetCode]: https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white
