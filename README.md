@@ -24,6 +24,8 @@ Solved emoji `:white_check_mark:` -->
 | 13 | Promise | Promise Pool | :white_check_mark: | [day13.js] | Medium |
 | 14 | Time (setTimeout) | Cache With Time Limit | :x: | [day14.js] | Medium |
 | 15 | Time (setTimeout) | Debounce | :x: | [day15.js] | Medium |
+| 16 | Time (setTimeout) | Throttle | :x: | [day16.js] | Medium |
+| 17 | JSON / Recursion / Important Utilities | JSON Deep Equal | :x: | [day17.js] | Medium |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
 
@@ -52,6 +54,8 @@ Feel free to contact and connect!
 [Promise Pool]: https://leetcode.com/problems/promise-pool/
 [Cache With Time Limit]: https://leetcode.com/problems/cache-with-time-limit/
 [Debounce]: https://leetcode.com/problems/debounce/
+[Throttle]: https://leetcode.com/problems/throttle/
+[JSON Deep Equal]: https://leetcode.com/problems/json-deep-equal/
 
 [day1.js]: challenges/day1.js
 [day2.js]: challenges/day2.js
