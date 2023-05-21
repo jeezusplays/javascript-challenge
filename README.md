@@ -21,7 +21,7 @@ Solved emoji `:white_check_mark:` -->
 | 10 | Function Input and Output | [Curry] | :white_check_mark: | [day10.js] | Medium |
 | 11 | Promise | [Sleep] | :white_check_mark: | [day11.js] | Easy |
 | 12 | Promise | Promise Time Limit | :white_check_mark: | [day12.js] | Easy |
-| 13 | Promise | Promise Pool | :x: | [day13.js] | Medium |
+| 13 | Promise | Promise Pool | :white_check_mark: | [day13.js] | Medium |
 | 14 | Time (setTimeout) | Cache With Time Limit | :x: | [day14.js] | Medium |
 | 15 | Time (setTimeout) | Debounce | :x: | [day15.js] | Medium |
 
