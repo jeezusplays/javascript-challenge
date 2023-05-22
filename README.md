@@ -22,7 +22,7 @@ Solved emoji `:white_check_mark:` -->
 | 11 | Promise | [Sleep] | :white_check_mark: | [day11.js] | Easy |
 | 12 | Promise | Promise Time Limit | :white_check_mark: | [day12.js] | Easy |
 | 13 | Promise | Promise Pool | :white_check_mark: | [day13.js] | Medium |
-| 14 | Time (setTimeout) | Cache With Time Limit | :x: | [day14.js] | Medium |
+| 14 | Time (setTimeout) | Cache With Time Limit | :white_check_mark: | [day14.js] | Medium |
 | 15 | Time (setTimeout) | Debounce | :x: | [day15.js] | Medium |
 | 16 | Time (setTimeout) | Throttle | :x: | [day16.js] | Medium |
 | 17 | JSON / Recursion / Important Utilities | JSON Deep Equal | :x: | [day17.js] | Medium |
