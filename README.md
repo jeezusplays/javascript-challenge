@@ -26,6 +26,7 @@ Solved emoji `:white_check_mark:` -->
 | 15 | Time (setTimeout) | Debounce | :x: | [day15.js] | Medium |
 | 16 | Time (setTimeout) | Throttle | :x: | [day16.js] | Medium |
 | 17 | JSON / Recursion / Important Utilities | JSON Deep Equal | :x: | [day17.js] | Medium |
+| 18 | JSON / Recursion / Important Utilities | Convert Object to JSON String | :x: | [day18.js] | Medium |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
 
@@ -56,6 +57,7 @@ Feel free to contact and connect!
 [Debounce]: https://leetcode.com/problems/debounce/
 [Throttle]: https://leetcode.com/problems/throttle/
 [JSON Deep Equal]: https://leetcode.com/problems/json-deep-equal/
+[Convert Object to JSON String]: https://leetcode.com/problems/convert-object-to-json-string/
 
 [day1.js]: challenges/day1.js
 [day2.js]: challenges/day2.js
