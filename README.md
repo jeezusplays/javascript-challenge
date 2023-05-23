@@ -31,7 +31,7 @@ Solved emoji `:white_check_mark:` -->
 | 14 | Time (setTimeout) | Cache With Time Limit | :white_check_mark: | [day14.js] | Medium |
 | 15 | Time (setTimeout) | Debounce | :white_check_mark: | [day15.js] | Medium |
 | 16 | Time (setTimeout) | Throttle | :white_check_mark: | [day16.js] | Medium |
-| 17 | JSON / Recursion / Important Utilities | JSON Deep Equal | :white_check_mar: | [day17.js] | Medium |
+| 17 | JSON / Recursion / Important Utilities | JSON Deep Equal | :white_check_mark: | [day17.js] | Medium |
 | 18 | JSON / Recursion / Important Utilities | Convert Object to JSON String | :x: | [day18.js] | Medium |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language.
