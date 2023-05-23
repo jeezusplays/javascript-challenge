@@ -1,3 +1,9 @@
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Clone][clone-shield]][clone-url]
+
+
 [![LeetCode Challenge]](https://leetcode.com/discuss/study-guide/3458761/day-1-30-days-of-lc-javascript-challenge)
 
 # 30 Days of LC JavaScript Challenge
@@ -90,4 +96,12 @@ Feel free to contact and connect!
 [day29.js]: challenges/day29.js
 [day30.js]: challenges/day30.js
 
+[forks-shield]: https://img.shields.io/github/forks/jeezusplays/javascript-challenge.svg?style=for-the-badge
+[forks-url]: https://github.com/jeezusplays/javascript-challenge/network/members
+[stars-shield]: https://img.shields.io/github/stars/jeezusplays/javascript-challenge.svg?style=for-the-badge
+[stars-url]: https://github.com/jeezusplays/javascript-challenge/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jeezusplays/javascript-challenge.svg?style=for-the-badge
+[issues-url]: https://github.com/jeezusplays/javascript-challenge/issues
 
+[clone-shield]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=success&label=Clone&query=count&url=https://gist.github.com/jeezusplays/40f3b1ed54e74b942f5124ac07cdbafb/raw/clone.json
+[clone-url]:https://github.com/jeezusplays/javascript-challenge/
