@@ -2,6 +2,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Clone][clone-shield]][clone-url]
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjeezusplays%2Fjavascript-challenge&label=VISTORS&countColor=%232ccce4)
 
 [![LeetCode Challenge]](https://leetcode.com/discuss/study-guide/3458761/day-1-30-days-of-lc-javascript-challenge)
 
