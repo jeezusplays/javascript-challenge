@@ -26,15 +26,15 @@ Solved emoji `:white_check_mark:` -->
 | 9 | Function Input and Output | [Memoize] | :white_check_mark: | [day9.js] | Medium |
 | 10 | Function Input and Output | [Curry] | :white_check_mark: | [day10.js] | Medium |
 | 11 | Promise | [Sleep] | :white_check_mark: | [day11.js] | Easy |
-| 12 | Promise | Promise Time Limit | :white_check_mark: | [day12.js] | Easy |
-| 13 | Promise | Promise Pool | :white_check_mark: | [day13.js] | Medium |
-| 14 | Time (setTimeout) | Cache With Time Limit | :white_check_mark: | [day14.js] | Medium |
-| 15 | Time (setTimeout) | Debounce | :white_check_mark: | [day15.js] | Medium |
+| 12 | Promise | [Promise Time Limit] | :white_check_mark: | [day12.js] | Easy |
+| 13 | Promise | [Promise Pool] | :white_check_mark: | [day13.js] | Medium |
+| 14 | Time (setTimeout) | [Cache With Time Limit] | :white_check_mark: | [day14.js] | Medium |
+| 15 | Time (setTimeout) | [Debounce] | :white_check_mark: | [day15.js] | Medium |
 | 16 | Time (setTimeout) | Throttle | :white_check_mark: | [day16.js] | Medium |
-| 17 | JSON / Recursion / Important Utilities | JSON Deep Equal | :white_check_mark: | [day17.js] | Medium |
-| 18 | JSON / Recursion / Important Utilities | Convert Object to JSON String | :white_check_mark: | [day18.js] | Medium |
-| 19 | JSON / Recursion / Important Utilities | Array of Objects to Matrix | :x: | [day19.js] | Medium |
-| 20 | JSON / Recursion / Important Utilities | Differences Between Two Objects | :x: | [day20.js] | Medium |
+| 17 | JSON / Recursion / Important Utilities | [JSON Deep Equal] | :white_check_mark: | [day17.js] | Medium |
+| 18 | JSON / Recursion / Important Utilities | [Convert Object to JSON String] | :white_check_mark: | [day18.js] | Medium |
+| 19 | JSON / Recursion / Important Utilities | [Array of Objects to Matrix] | :x: | [day19.js] | Medium |
+| 20 | JSON / Recursion / Important Utilities | [Differences Between Two Objects] | :x: | [day20.js] | Medium |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language. Please feel free to fork this repository and follow along with me! Give this repository a :star: if you find it useful!
 
@@ -66,6 +66,8 @@ Feel free to contact and connect!
 [Throttle]: https://leetcode.com/problems/throttle/
 [JSON Deep Equal]: https://leetcode.com/problems/json-deep-equal/
 [Convert Object to JSON String]: https://leetcode.com/problems/convert-object-to-json-string/
+[Array of Objects to Matrix]: https://leetcode.com/problems/array-of-objects-to-matrix/
+[Differences Between Two Objects]: https://leetcode.com/problems/differences-between-two-objects/
 
 [day1.js]: challenges/day1.js
 [day2.js]: challenges/day2.js
