@@ -30,7 +30,7 @@ Solved emoji `:white_check_mark:` -->
 | 13 | Promise | [Promise Pool] | :white_check_mark: | [day13.js] | Medium |
 | 14 | Time (setTimeout) | [Cache With Time Limit] | :white_check_mark: | [day14.js] | Medium |
 | 15 | Time (setTimeout) | [Debounce] | :white_check_mark: | [day15.js] | Medium |
-| 16 | Time (setTimeout) | Throttle | :white_check_mark: | [day16.js] | Medium |
+| 16 | Time (setTimeout) | [Throttle] | :white_check_mark: | [day16.js] | Medium |
 | 17 | JSON / Recursion / Important Utilities | [JSON Deep Equal] | :white_check_mark: | [day17.js] | Medium |
 | 18 | JSON / Recursion / Important Utilities | [Convert Object to JSON String] | :white_check_mark: | [day18.js] | Medium |
 | 19 | JSON / Recursion / Important Utilities | [Array of Objects to Matrix] | :x: | [day19.js] | Medium |
