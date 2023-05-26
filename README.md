@@ -34,7 +34,8 @@ Solved emoji `:white_check_mark:` -->
 | 17 | JSON / Recursion / Important Utilities | [JSON Deep Equal] | :white_check_mark: | [day17.js] | Medium |
 | 18 | JSON / Recursion / Important Utilities | [Convert Object to JSON String] | :white_check_mark: | [day18.js] | Medium |
 | 19 | JSON / Recursion / Important Utilities | [Array of Objects to Matrix] | :white_check_mark: | [day19.js] | Medium |
-| 20 | JSON / Recursion / Important Utilities | [Differences Between Two Objects] | :x: | [day20.js] | Medium |
+| 20 | JSON / Recursion / Important Utilities | [Differences Between Two Objects] | :white_check_mark: | [day20.js] | Medium |
+| 21 | JSON / Recursion / Important Utilities | [Chunk Array] | :x: | [day21.js] | Easy |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language. Please feel free to fork this repository and follow along with me! Give this repository a :star: if you find it useful!
 
@@ -68,6 +69,7 @@ Feel free to contact and connect!
 [Convert Object to JSON String]: https://leetcode.com/problems/convert-object-to-json-string/
 [Array of Objects to Matrix]: https://leetcode.com/problems/array-of-objects-to-matrix/
 [Differences Between Two Objects]: https://leetcode.com/problems/differences-between-two-objects/
+[Chunk Array]: https://leetcode.com/problems/chunk-array/
 
 [day1.js]: challenges/day1.js
 [day2.js]: challenges/day2.js
