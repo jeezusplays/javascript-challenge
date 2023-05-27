@@ -36,6 +36,7 @@ Solved emoji `:white_check_mark:` -->
 | 19 | JSON / Recursion / Important Utilities | [Array of Objects to Matrix] | :white_check_mark: | [day19.js] | Medium |
 | 20 | JSON / Recursion / Important Utilities | [Differences Between Two Objects] | :white_check_mark: | [day20.js] | Medium |
 | 21 | JSON / Recursion / Important Utilities | [Chunk Array] | :x: | [day21.js] | Easy |
+| 22 | JSON / Recursion / Important Utilities | [Flatten Deeply Nested Array] | :x: | [day22.js] | Medium |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language. Please feel free to fork this repository and follow along with me! Give this repository a :star: if you find it useful!
 
@@ -70,6 +71,7 @@ Feel free to contact and connect!
 [Array of Objects to Matrix]: https://leetcode.com/problems/array-of-objects-to-matrix/
 [Differences Between Two Objects]: https://leetcode.com/problems/differences-between-two-objects/
 [Chunk Array]: https://leetcode.com/problems/chunk-array/
+[Flatten Deeply Nested Array]: https://leetcode.com/problems/flatten-deeply-nested-array/
 
 [day1.js]: challenges/day1.js
 [day2.js]: challenges/day2.js
@@ -108,6 +110,5 @@ Feel free to contact and connect!
 [stars-url]: https://github.com/jeezusplays/javascript-challenge/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jeezusplays/javascript-challenge.svg?style=for-the-badge
 [issues-url]: https://github.com/jeezusplays/javascript-challenge/issues
-
 [clone-shield]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/jeezusplays/40f3b1ed54e74b942f5124ac07cdbafb/raw/clone.json
 [clone-url]:https://github.com/jeezusplays/javascript-challenge/
