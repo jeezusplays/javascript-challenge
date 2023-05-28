@@ -36,7 +36,7 @@ Solved emoji `:white_check_mark:` -->
 | 19 | JSON / Recursion / Important Utilities | [Array of Objects to Matrix] | :white_check_mark: | [day19.js] | Medium |
 | 20 | JSON / Recursion / Important Utilities | [Differences Between Two Objects] | :white_check_mark: | [day20.js] | Medium |
 | 21 | JSON / Recursion / Important Utilities | [Chunk Array] | :white_check_mark: | [day21.js] | Easy |
-| 22 | JSON / Recursion / Important Utilities | [Flatten Deeply Nested Array] | :x: | [day22.js] | Medium |
+| 22 | JSON / Recursion / Important Utilities | [Flatten Deeply Nested Array] | :white_check_mark: | [day22.js] | Medium |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language. Please feel free to fork this repository and follow along with me! Give this repository a :star: if you find it useful!
 
