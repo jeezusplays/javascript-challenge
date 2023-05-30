@@ -38,7 +38,8 @@ Solved emoji `:white_check_mark:` -->
 | 21 | JSON / Recursion / Important Utilities | [Chunk Array] | :white_check_mark: | [day21.js] | Easy |
 | 22 | JSON / Recursion / Important Utilities | [Flatten Deeply Nested Array] | :white_check_mark: | [day22.js] | Medium |
 | 23 | This | [Array Prototype Last] | :white_check_mark: | [day23.js] | Easy |
-| 24 | This | [Group By] | :x: | [day24.js] | Medium |
+| 24 | This | [Group By] | :white_check_mark: | [day24.js] | Medium |
+| 25 | This | [Check if Object Instance of Class] | :x: | [day25.js] | Medium |
 
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language. Please feel free to fork this repository and follow along with me! Give this repository a :star: if you find it useful!
@@ -77,6 +78,7 @@ Feel free to contact and connect!
 [Flatten Deeply Nested Array]: https://leetcode.com/problems/flatten-deeply-nested-array/
 [Array Prototype Last]: https://leetcode.com/problems/array-prototype-last/
 [Group By]: https://leetcode.com/problems/group-by/
+[Check if Object Instance of Class]: https://leetcode.com/problems/check-if-object-instance-of-class/
 
 [day1.js]: challenges/day1.js
 [day2.js]: challenges/day2.js
