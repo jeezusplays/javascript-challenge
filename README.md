@@ -42,7 +42,8 @@ Solved emoji `:white_check_mark:` -->
 | 25 | This | [Check if Object Instance of Class] | :white_check_mark: | [day25.js] | Medium |
 | 26 | This | [Call Function with Custom Context] | :white_check_mark: | [day26.js] | Medium |
 | 27 | Classes | [Event Emitter] | :white_check_mark: | [day27.js] | Medium |
- 28 | Classes | [Array Wrapper] | :x: | [day28.js] | Easy |
+| 28 | Classes | [Array Wrapper] | :white_check_mark: | [day28.js] | Easy |
+| 29 | Generators | [Generate Fibonacci Sequence] | :x: | [day29.js] | Medium |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language. Please feel free to fork this repository and follow along with me! Give this repository a :star: if you find it useful!
 
@@ -84,6 +85,7 @@ Feel free to contact and connect!
 [Call Function with Custom Context]: https://leetcode.com/problems/call-function-with-custom-context/
 [Event Emitter]: https://leetcode.com/problems/event-emitter/
 [Array Wrapper]: https://leetcode.com/problems/array-wrapper/
+[Generate Fibonacci Sequence]: https://leetcode.com/problems/generate-fibonacci-sequence/
 
 [day1.js]: challenges/day1.js
 [day2.js]: challenges/day2.js
