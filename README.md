@@ -43,7 +43,8 @@ Solved emoji `:white_check_mark:` -->
 | 26 | This | [Call Function with Custom Context] | :white_check_mark: | [day26.js] | Medium |
 | 27 | Classes | [Event Emitter] | :white_check_mark: | [day27.js] | Medium |
 | 28 | Classes | [Array Wrapper] | :white_check_mark: | [day28.js] | Easy |
-| 29 | Generators | [Generate Fibonacci Sequence] | :x: | [day29.js] | Medium |
+| 29 | Generators | [Generate Fibonacci Sequence] | :white_check_mark: | [day29.js] | Medium |
+| 30 | Generators | [Nested Array Generator] | :x: | [day30.js] | Medium |
 
 This challenge is hosted by [![LeetCode]](https://leetcode.com/). This repository is a collection of my solutions to the daily problems. I will be using this challenge to improve my JavaScript skills and to learn more about the language. Please feel free to fork this repository and follow along with me! Give this repository a :star: if you find it useful!
 
