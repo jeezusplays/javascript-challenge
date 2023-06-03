@@ -88,6 +88,7 @@ Feel free to contact and connect!
 [Event Emitter]: https://leetcode.com/problems/event-emitter/
 [Array Wrapper]: https://leetcode.com/problems/array-wrapper/
 [Generate Fibonacci Sequence]: https://leetcode.com/problems/generate-fibonacci-sequence/
+[Nested Array Generator]: https://leetcode.com/problems/nested-array-generator/
 
 [day1.js]: challenges/day1.js
 [day2.js]: challenges/day2.js
